@@ -1,2 +1,1 @@
-# -sudoko-solver-
-sudoko solver using backtracking algorithm
+ Face mask detection using CNN 
